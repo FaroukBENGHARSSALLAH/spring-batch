@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: off
+  batch:
+    job:
+      enabled: false  
+          
+server:
+  port: 9003
